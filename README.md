@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Osama Al-Eryani
+- 👋 Hi, I’m @oeryania
 - 👀 I’m working hard to break into People Analytics
 - 🌱 I’m currently learning R & Data Science
 - 💞️ I’m looking to collaborate on building People Analytics teams and the data infrastructure needed to support it.
