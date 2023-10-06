@@ -4,21 +4,6 @@
 - 💞️ I’m looking to collaborate on building People Analytics teams and the data infrastructure needed to support it.
 - 📫 How to reach me [LinkedIn](http://linkedin.com/in/oeryani/)
 
-<!---
-oeryania/oeryania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-# hello-world
-
-### markdown test
-
-Hi, my name is Osama Al-Eryani.
-
-- I used `git` before, but I never used **github**.
-
----
-
 Let's see where we will *go*.
 1. forward
 2. backward
