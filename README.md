@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @oeryania
 - 👀 I am building my skills and network to transition into **People Analytics**.
 - 🌱 Currently learning **R & Data Science**
-- 💞️ I’m looking to collaborate on building People Analytics teams and the data infrastructure needed to support it.
 - 📫 How to reach me [LinkedIn](http://linkedin.com/in/oeryani/)
 
 Let's see where we will *go*.
